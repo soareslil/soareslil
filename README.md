@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**soareslil/soareslil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Liliane Soares</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
