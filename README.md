@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liliane Soares</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Fullstack Web Development**
+- 🌱 I’m currently learning **Full cycle Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
